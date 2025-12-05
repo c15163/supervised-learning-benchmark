@@ -1,4 +1,4 @@
-📘 Supervised Learning Benchmark: Five Classifiers on Two Datasets
+#📘 Supervised Learning Benchmark: Five Classifiers on Two Datasets
 
 This project evaluates five classical supervised learning algorithms across two datasets (binary & multiclass) to compare model accuracy, training time, and behavior with respect to hyperparameter selection and learning curves.
 
