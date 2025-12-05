@@ -40,9 +40,14 @@ project_root/
 ### 1) Breast Cancer Wisconsin Dataset  
 Binary classification dataset with 30 numerical features extracted from FNA images.
 
+Official source:  
+https://www.kaggle.com/datasets/anacoder1/wisc-bc-data
+
 ### 2) WiFi Localization Dataset  
 Multiclass classification dataset (4 rooms) using WiFi signal strength from 7 access points.
 
+Official source:  
+https://archive.ics.uci.edu/dataset/422/wireless+indoor+localization
 ---
 
 ## How to Run
